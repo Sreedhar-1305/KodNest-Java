@@ -3,7 +3,7 @@ package M02T05;
 public class method2 {
     public static void main(String args[]) {
         Student s1 = new Student();
-        s1.input("Sreedhar", 18, 5.4);
+        s1.input("Srujan", 18, 5.4);
         s1.display();
     }
 }
